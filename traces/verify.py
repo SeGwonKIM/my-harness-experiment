@@ -13,6 +13,7 @@ STATES = [
     ("fixture (원본 버그)", "discount_fixture.py"),
     ("test 폴더 (출처 미확인 수정)", "discount_test-folder.py"),
     ("search·replace 제안 문장 그대로", "discount_search-replace-proposal.py"),
+    ("run-B 수정 후 (search·replace 조건)", "discount_run-B-after.py"),
     ("test2 수정 후 (자유 텍스트 조건)", "discount_test2-after.py"),
 ]
 
